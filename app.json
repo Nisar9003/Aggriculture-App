@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "ہارے کھیت",
+    "slug": "haray-khet-agriculture",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "haraykhet",
+    "userInterfaceStyle": "automatic",
+    "primaryColor": "#1B5E20",
+    "backgroundColor": "#FFFFFF",
+    "ios": {
+      "supportsTablet": false
+    },
+    "android": {
+      "package": "com.haraykhet.agriculture"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}

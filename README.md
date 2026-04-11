@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ہارے کھیت - Smart Agriculture Management System
 
 A production-ready mobile agriculture management system for Pakistani farmers. Built with React Native, Expo, and Supabase.
@@ -304,3 +305,6 @@ The app is **production-ready** and fully functional:
 ---
 
 Built with ❤️ for Pakistani farmers
+=======
+# Aggriculture-App
+>>>>>>> 269886aec6ae51f171d7ed87f84d1d9dd758261d
